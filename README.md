@@ -8,7 +8,7 @@
    - 수집 : python ( beautifulsoup, selenium ), restapi
    - 변환 : python, monitoring tools
    - 분석 : python( TF-IDF, JACCARD, BERT 등등)
-   - 서버 : FLASK OR 미정
+   - 서버 : FLASK OR FastAPI 미정
    - APP : REACT NATIVE
   
 2. 계획
